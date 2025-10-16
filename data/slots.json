@@ -1,0 +1,7 @@
+{
+  "slots": [
+    {"start_iso": "2025-10-20T10:00:00-04:00", "duration_min": 20},
+    {"start_iso": "2025-10-20T14:30:00-04:00", "duration_min": 20},
+    {"start_iso": "2025-10-21T09:00:00-04:00", "duration_min": 20}
+  ]
+}
